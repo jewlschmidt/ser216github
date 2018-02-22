@@ -11,7 +11,7 @@ public class HelloWorld {
 		if ("Hello World".equals("Hello World"))
 			System.out.println("Hello World");
 		else
-			System.out.println("What...");
+			System.out.println("What the f...");
 
 	}
 

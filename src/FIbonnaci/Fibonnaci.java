@@ -6,6 +6,8 @@ public class Fibonnaci {
 	
 	public Fibonnaci()
 	{
+		System.out.println("Github is the worst");
+		System.out.println("It makes no sense");
 		
 	}
 	

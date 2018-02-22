@@ -5,5 +5,8 @@ There is also a .pdf of a GitHub cheat sheet in this repository. I suggest copyi
 
 Hi, I'm modifying this file - James Ortner
 
+This has also now been edited by me(Travis Hawley) in accordance with the In-Class Activity.
+
+
 Test change to dev branch!
 

@@ -1,4 +1,6 @@
-package FIbonnaci;
+/**
+   CDIANOVI WAS HERE
+   */
 
 public class Fibonnaci {
 	
@@ -6,7 +8,7 @@ public class Fibonnaci {
 	
 	public Fibonnaci()
 	{
-		
+		System.out.println("I WAS HERE");
 	}
 	
 	public int findFib(int one, int two, int count)
@@ -30,3 +32,6 @@ public class Fibonnaci {
 	}
 
 }
+/**
+   CDIANOVI WAS HERE
+   */

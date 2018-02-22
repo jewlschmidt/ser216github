@@ -16,16 +16,7 @@ public class Fibonnaci {
 			System.out.println(two);
 			return findFib(two, 1 + two, count - 1);
 		}
-		else if(!(count == 0))
-		{
-			System.out.println(two);
-			return findFib(two, one + two, count - 1);
-		}
-		else
-		{
-			System.out.println(two);
-			return 0;
-		}
+		
 		
 	}
 

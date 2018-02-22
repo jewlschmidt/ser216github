@@ -8,10 +8,10 @@ public class HelloWorld {
 		
 		System.out.println("Hello this is cjmoraws");
 
-		if ("Hello World".equals("Hello World"))
-			System.out.println("Hello World");
+		if ("Hello World".equals("Hello World."))
+			System.out.println("Hello Aqcastan (aka Master)");
 		else
-			System.out.println("What...");
+			System.out.println("I like coffee...");
 
 	}
 

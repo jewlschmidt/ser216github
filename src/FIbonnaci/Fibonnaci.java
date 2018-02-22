@@ -14,9 +14,9 @@ public class Fibonnaci {
 		if((count != 0) && (two == 0))
 		{
 			System.out.println(two);
+			System.out.println("Kristina Capistrano");
 			return findFib(two, 1 + two, count - 1);
 		}
-		
 		
 	}
 

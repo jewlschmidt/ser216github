@@ -2,4 +2,8 @@ This is a bunch of code that I had backed up from high school. It should work, b
 
 There is also a .pdf of a GitHub cheat sheet in this repository. I suggest copying it onto your machine, but do not take it out of the folder.
 
+
+This has also now been edited by me(Travis Hawley) in accordance with the In-Class Activity.
+
 Test change to dev branch!
+

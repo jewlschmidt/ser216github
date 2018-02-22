@@ -10,6 +10,7 @@ public class HelloWorld {
 
 		if ("Hello World".equals("Hello World"))
 			System.out.println("Hello World");
+			System.out.println("Another Hello to the World");
 		else
 			System.out.println("What...");
 
